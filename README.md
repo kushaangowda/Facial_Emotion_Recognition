@@ -29,8 +29,8 @@ We used the Extended Cohn-Kanade (CK+) dataset, available on [Kaggle](https://ww
 ## Experimental Analysis
 
 Train-Test split = 80:20 (random) \
-Test Accuracy = 65.15%
-![Alt text](image.png)
+Test Accuracy = 65.15% \
+![Alt text](image-1.png)
 
 ## Team Members
 
